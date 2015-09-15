@@ -6,13 +6,13 @@ title: About
 
 <img src="portrait.jpg" width="50%" align="right">
 
-Hello. My name is Rasmus Andersson. I'm a Swedish maker living in San Francisco with a passion for art and technology, who have worked with a number of different companies since the 1990s, including 
+-Hello. My name is Rasmus Andersson. I'm a Swedish maker living in San Francisco with a passion for art and technology, who have worked with a number of different companies since the 1990s, including 
 [Dropbox](https://www.dropbox.com/jobs/product/design),
 [Facebook](https://facebook.com/design),
 [Spotify](https://www.spotify.com/),
 [Lear Corporation](http://lear.com/),
 Spray, and my own company Notion.
-More information can be found through [LinkedIn](http://www.linkedin.com/in/rasmusandersson).
+More information can be found through [LinkedIn](http://www.linkedin.com/in/rasmusandersson).-
 
 I work for & ♥ [Dropbox](https://www.dropbox.com/jobs/product/design)
 
